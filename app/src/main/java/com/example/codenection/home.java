@@ -16,5 +16,7 @@ public class home extends AppCompatActivity {
 
         private String Yiquan;
 
+        private String Ziyang;
+
     }
 }
