@@ -13,6 +13,8 @@ public class home extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
         int x=0;
-        System.out.println("HAHAAHAHAHAHAHAHAHAHAHA");
+
+        private String Yiquan;
+
     }
 }
