@@ -6,10 +6,13 @@ import android.os.Bundle;
 
 public class home extends AppCompatActivity {
 
+    private String hello = "Hello world";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
         int x=0;
+        System.out.println("HAHAAHAHAHAHAHAHAHAHAHA");
     }
 }
