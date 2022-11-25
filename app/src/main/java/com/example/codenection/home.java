@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class home extends AppCompatActivity {
 
-    private String hello = "Hello world!";
+    private String hello = "Hello world!dfdf";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
